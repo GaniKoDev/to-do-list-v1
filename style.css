@@ -1,0 +1,15 @@
+
+
+  .checkBox{
+
+    float: left;
+    display: inline-block;
+    margin-right: 1em;
+
+  }
+
+  .xBtn{
+
+    margin-left: 2em;
+
+  }
