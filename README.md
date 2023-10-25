@@ -13,5 +13,5 @@ My first to do list project, I used html, css, bootstrap and javascript.
 >
 >> while creating my functions
 
-I added, deleted and drew lines and wrote them all as a code.
+Added, deleted and drew lines and wrote them all as 1 code.
 
